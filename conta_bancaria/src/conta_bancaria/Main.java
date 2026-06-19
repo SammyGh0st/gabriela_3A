@@ -33,7 +33,7 @@ public class Main {
        
        System.out.println("Seu saldo corresponde a "+saldo);
        
-       teclado.close();
+       teclado.close(); // TERMINEI
 	}
 
 }
